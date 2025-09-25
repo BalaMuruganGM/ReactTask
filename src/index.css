@@ -135,7 +135,7 @@ form button:disabled {
 @media screen and (max-width:500px) {
     form{
         width: 85%;
-        height:unset;
+        min-height:20vh;
         gap: 15px;
         padding: 25px 10px;
     }
