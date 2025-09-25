@@ -136,7 +136,7 @@ form button:disabled {
     form{
         width: 85%;
         min-height:20vh;
-        gap: 15px;
+        gap: 10px;
         padding: 25px 10px;
     }
 
@@ -175,4 +175,5 @@ form button:disabled {
     }
 
 }
+
 
